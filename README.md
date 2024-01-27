@@ -1,5 +1,3 @@
-# Gender disparities in high-quality research of Pakistan
- 
 # Gender Disparities in High-Quality Research of Pakistan
 
 ## Project Overview
