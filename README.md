@@ -26,19 +26,6 @@ This project aims to analyze gender disparities in high-quality research in Paki
 - **Visualization Techniques:** Data visualizations, generated using libraries like matplotlib and seaborn, were used to present findings effectively. These visualizations may include charts, graphs, and heatmaps.
 - **Text Analysis:** The `re` library was used for text analysis, likely for extracting author names, affiliations, and other relevant information from the dataset.
 
-## Project Structure
-[Include a brief description of the project's file structure and organization if applicable.]
 
-## Setup
-[Provide instructions for setting up and running the project.]
-
-## Usage
-[Include instructions on how to use the project, along with code examples if available.]
-
-## Contributing
-[Guidelines for contributing to the project if it's open for contributions.]
-
-## License
-[License information if applicable.]
 
 ---
